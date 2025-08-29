@@ -13,6 +13,12 @@ Each project includes datasets, analysis, and visualizations with business insig
 
 ## 🔹 Projects
 
+### 1. [E-commerce_Sales_Dashboard](./E-commerce_Sales_Dashboard)
+- Track sales performance across regions, products, and time periods.
+- Monitor customer behavior and purchase trends.
+- Identify top-performing products and potential growth opportunities.
+- **Tools:** Excel, PowerBI
+
 ### 1. [Excel Sales Dashboard](./Excel-Sales-Analysis)
 - Cleaned and analyzed sales data in Excel
 - Built an interactive dashboard with PivotTables and charts
