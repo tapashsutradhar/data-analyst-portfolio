@@ -13,33 +13,38 @@ Each project includes datasets, analysis, and visualizations with business insig
 
 ## 🔹 Projects
 
-### 1. [E-commerce_Sales_Dashboard](./E-commerce_Sales_Dashboard)
+### [E-commerce_Sales_Dashboard](./E-commerce_Sales_Dashboard)
 - Track sales performance across regions, products, and time periods.
 - Monitor customer behavior and purchase trends.
 - Identify top-performing products and potential growth opportunities.
 - **Tools:** Excel, PowerBI
 
-### 1. [Excel Sales Dashboard](./Excel-Sales-Analysis)
+### [Bank_Loan_Default_Risk_Analysis](./Bank_Loan_Default_Risk_Analysis)
+- To analyze customer banking data to identify factors influencing loan default risk and build predictive models to assist the bank in reducing non-performing assets (NPA) and improving credit decisions.
+- This project analyzes banking loan applicant data to identify factors influencing loan defaults and builds predictive models to help banks reduce Non-Performing Assets (NPA).
+- It combines data cleaning, exploratory analysis, predictive modeling, and interactive dashboards to provide actionable insights for financial decision-making.
+
+### [Excel Sales Dashboard](./Excel-Sales-Analysis)
 - Cleaned and analyzed sales data in Excel
 - Built an interactive dashboard with PivotTables and charts
 - **Tools:** Excel
 
-### 2. [SQL E-commerce Analysis](./SQL-Ecommerce-Analysis)
+### [SQL E-commerce Analysis](./SQL-Ecommerce-Analysis)
 - Wrote SQL queries to analyze sales and customer behavior
 - Key insights: top products, peak sales times, customer purchase trends
 - **Tools:** MySQL/PostgreSQL
 
-### 3. [Netflix Content Analysis](./Python-Netflix-Analysis)
+### [Netflix Content Analysis](./Python-Netflix-Analysis)
 - Cleaned and explored Netflix dataset using Python
 - Visualized trends by genre, release year, and country
 - **Tools:** Python (Pandas, Matplotlib, Seaborn, Plotly)
 
-### 4. [HR Analytics Dashboard](./HR-Analytics-Dashboard)
+### [HR Analytics Dashboard](./HR-Analytics-Dashboard)
 - Built an interactive dashboard in Power BI/Tableau
 - Analyzed employee attrition, satisfaction, and salary distribution
 - **Tools:** Power BI / Tableau
 
-### 5. [Customer Churn Prediction](./Customer-Churn-Prediction)
+### [Customer Churn Prediction](./Customer-Churn-Prediction)
 - Performed churn analysis and built a predictive ML model
 - Identified key factors driving customer churn
 - **Tools:** Python (Pandas, Scikit-learn, Matplotlib)
