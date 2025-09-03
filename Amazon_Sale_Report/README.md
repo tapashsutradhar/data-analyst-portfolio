@@ -82,7 +82,7 @@ Top records preview:
 | ANDHRA PRADESH | 3.21786e+06 |
 | HARYANA        | 2.88036e+06 |
 
-## Recommendations (Auto-Generated)
+## Recommendations 
 - Double down on top categories and products with targeted ads and bundling.
 - Balance stock for best-selling sizes; reduce slow-moving size inventory.
 - Prioritize the most profitable fulfillment method and address bottlenecks in low-performing channels.
