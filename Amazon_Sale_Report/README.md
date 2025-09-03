@@ -1,5 +1,23 @@
 # Amazon Sales Analysis – Summary Report
 
+# Insights & Recommendations
+
+## Key Insights
+- Sales trend available from 2022-03-01 to 2022-06-01.
+- Top categories: T-shirt, Shirt, Blazzer
+- Top sizes: M, L, XL
+- Leading fulfillment channel by revenue: Amazon
+- Top state by sales: MAHARASHTRA
+- Top city by sales: BENGALURU
+- RFM segment mix (%): {'Loyal': 33.2, 'Potential Loyalist': 28.3, 'Need Attention': 20.5, 'Champions': 9.2, 'At Risk': 8.8}
+
+## Recommendations
+- Increase investment in top categories/sizes; test bundles to lift AOV.
+- Balance inventory toward fast-moving sizes; reduce slow movers.
+- Prioritize the best-performing fulfillment channel; fix late/cancel issues in weaker channels.
+- Cultivate Champions/Loyal with VIP offers; win-back 'At Risk' with time-bound coupons.
+- Focus geo marketing in top states/cities; align last-mile capacity.
+
 ## Overview KPIs
 - **Total Sales**: 78590170.24999999
 - **Total Units**: 116479
