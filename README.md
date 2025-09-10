@@ -18,7 +18,7 @@ Each project includes datasets, analysis, and visualizations with business insig
 - Monitor customer behavior and purchase trends.
 - Identify top-performing products and potential growth opportunities.
 - **Tools:** Excel, PowerBI
-- 
+  
 ### [Retail_Data_Analytics](https://github.com/tapashsutradhar/Retail_Data_Analytics/tree/main/Retail_Data_Analytics)
 - A React + Vite + Tailwind web application that lets you upload retail CSV data, analyze it, and explore interactive insights through charts, KPIs, and tables.
 
@@ -52,6 +52,11 @@ Each project includes datasets, analysis, and visualizations with business insig
 - Identified key factors driving customer churn
 - **Tools:** Python (Pandas, Scikit-learn, Matplotlib)
 
+### [Sales_Data_analysis_using_python](https://github.com/tapashsutradhar/Sales_Data_analysis_using_python)
+- Sales Data Analysis using Python – uncovering trends, customer behavior, and business insights with pandas, matplotlib, and seaborn.
+
+
+  
 ---
 
 ## 📚 Skills Demonstrated
