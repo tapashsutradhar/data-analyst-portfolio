@@ -18,6 +18,9 @@ Each project includes datasets, analysis, and visualizations with business insig
 - Monitor customer behavior and purchase trends.
 - Identify top-performing products and potential growth opportunities.
 - **Tools:** Excel, PowerBI
+- 
+### [Retail_Data_Analytics](.https://github.com/tapashsutradhar/Retail_Data_Analytics/tree/main/Retail_Data_Analytics)
+- A React + Vite + Tailwind web application that lets you upload retail CSV data, analyze it, and explore interactive insights through charts, KPIs, and tables.
 
 ### [Bank_Loan_Default_Risk_Analysis](./Bank_Loan_Default_Risk_Analysis)
 - To analyze customer banking data to identify factors influencing loan default risk and build predictive models to assist the bank in reducing non-performing assets (NPA) and improving credit decisions.
