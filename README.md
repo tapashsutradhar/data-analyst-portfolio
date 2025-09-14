@@ -18,27 +18,16 @@ Each project includes datasets, analysis, and visualizations with business insig
 - Monitor customer behavior and purchase trends.
 - Identify top-performing products and potential growth opportunities.
 - **Tools:** Excel, PowerBI
-<!---  
-### [Retail_Data_Analytics-Web-Application](https://github.com/tapashsutradhar/Retail_Data_Analytics-End-to-End)
-- A React + Vite + Tailwind web application that lets you upload retail CSV data, analyze it, and explore interactive insights through charts, KPIs, and tables.
---->
+
 ### [Bank_Loan_Default_Risk_Analysis](https://github.com/tapashsutradhar/Bank_Loan_Default_Risk_Analysis)
 - To analyze customer banking data to identify factors influencing loan default risk and build predictive models to assist the bank in reducing non-performing assets (NPA) and improving credit decisions.
 - This project analyzes banking loan applicant data to identify factors influencing loan defaults and builds predictive models to help banks reduce Non-Performing Assets (NPA).
 - It combines data cleaning, exploratory analysis, predictive modeling, and interactive dashboards to provide actionable insights for financial decision-making.
 
-### [Sales_Data_analysis_using_python](https://github.com/tapashsutradhar/Retail_Sales_Data_analysis)
+### [Sales_Data_analysis](https://github.com/tapashsutradhar/Retail_Sales_Data_analysis)
 - Sales Data Analysis using Python – uncovering trends, customer behavior, and business insights with pandas, matplotlib, and seaborn.
-
-### [Excel Sales Dashboard](./Excel-Sales-Analysis)
-- Cleaned and analyzed sales data in Excel
-- Built an interactive dashboard with PivotTables and charts
-- **Tools:** Excel
-
-### [SQL E-commerce Analysis](./SQL-Ecommerce-Analysis)
 - Wrote SQL queries to analyze sales and customer behavior
 - Key insights: top products, peak sales times, customer purchase trends
-- **Tools:** MySQL/PostgreSQL
 
 ### [Netflix Content Analysis](./Python-Netflix-Analysis)
 - Cleaned and explored Netflix dataset using Python
@@ -46,9 +35,11 @@ Each project includes datasets, analysis, and visualizations with business insig
 - **Tools:** Python (Pandas, Matplotlib, Seaborn, Plotly)
 
 ### [HR Analytics Dashboard](./HR-Analytics-Dashboard)
-- Built an interactive dashboard in Power BI/Tableau
+- Built an interactive dashboard in Power BI/Excel
 - Analyzed employee attrition, satisfaction, and salary distribution
-- **Tools:** Power BI / Tableau
+- Cleaned and analyzed sales data in Excel
+- Built an interactive dashboard with PivotTables and charts
+- **Tools:** Power BI / Excel
 
 ### [Customer Churn Prediction](./Customer-Churn-Prediction)
 - Performed churn analysis and built a predictive ML model
@@ -69,6 +60,19 @@ Each project includes datasets, analysis, and visualizations with business insig
 ## 📌 Connect With Me
 - LinkedIn: [Your LinkedIn URL](https://linkedin.com/in/tapashsutradhar)
 - Tableau Public: [Your Tableau Profile](https://public.tableau.com/profile/tapashsutradhar)
+- [Portfolio](https://tapashsutradhar.github.io/portfolio/)
 <!--
 - Email: mail@gmail.com
+### [Excel Sales Dashboard](./Excel-Sales-Analysis)
+- Cleaned and analyzed sales data in Excel
+- Built an interactive dashboard with PivotTables and charts
+- **Tools:** Excel
+
+### [SQL E-commerce Analysis](./SQL-Ecommerce-Analysis)
+
 -->
+
+<!---  
+### [Retail_Data_Analytics-Web-Application](https://github.com/tapashsutradhar/Retail_Data_Analytics-End-to-End)
+- A React + Vite + Tailwind web application that lets you upload retail CSV data, analyze it, and explore interactive insights through charts, KPIs, and tables.
+--->
