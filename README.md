@@ -13,19 +13,22 @@ Each project includes datasets, analysis, and visualizations with business insig
 
 ## 🔹 Projects
 
-### [E-commerce_Sales_Dashboard](./E-commerce_Sales_Dashboard)
+### [E-commerce_Sales_Dashboard](https://github.com/tapashsutradhar/E-commerce_Dashboard) 
 - Track sales performance across regions, products, and time periods.
 - Monitor customer behavior and purchase trends.
 - Identify top-performing products and potential growth opportunities.
 - **Tools:** Excel, PowerBI
-  
-### [Retail_Data_Analytics](https://github.com/tapashsutradhar/Retail_Data_Analytics/tree/main/Retail_Data_Analytics)
+<!---  
+### [Retail_Data_Analytics-Web-Application](https://github.com/tapashsutradhar/Retail_Data_Analytics-End-to-End)
 - A React + Vite + Tailwind web application that lets you upload retail CSV data, analyze it, and explore interactive insights through charts, KPIs, and tables.
-
-### [Bank_Loan_Default_Risk_Analysis](./Bank_Loan_Default_Risk_Analysis)
+--->
+### [Bank_Loan_Default_Risk_Analysis](https://github.com/tapashsutradhar/Bank_Loan_Default_Risk_Analysis)
 - To analyze customer banking data to identify factors influencing loan default risk and build predictive models to assist the bank in reducing non-performing assets (NPA) and improving credit decisions.
 - This project analyzes banking loan applicant data to identify factors influencing loan defaults and builds predictive models to help banks reduce Non-Performing Assets (NPA).
 - It combines data cleaning, exploratory analysis, predictive modeling, and interactive dashboards to provide actionable insights for financial decision-making.
+
+### [Sales_Data_analysis_using_python](https://github.com/tapashsutradhar/Retail_Sales_Data_analysis)
+- Sales Data Analysis using Python – uncovering trends, customer behavior, and business insights with pandas, matplotlib, and seaborn.
 
 ### [Excel Sales Dashboard](./Excel-Sales-Analysis)
 - Cleaned and analyzed sales data in Excel
@@ -51,12 +54,7 @@ Each project includes datasets, analysis, and visualizations with business insig
 - Performed churn analysis and built a predictive ML model
 - Identified key factors driving customer churn
 - **Tools:** Python (Pandas, Scikit-learn, Matplotlib)
-
-### [Sales_Data_analysis_using_python](https://github.com/tapashsutradhar/Sales_Data_analysis_using_python)
-- Sales Data Analysis using Python – uncovering trends, customer behavior, and business insights with pandas, matplotlib, and seaborn.
-
-
-  
+ 
 ---
 
 ## 📚 Skills Demonstrated
