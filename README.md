@@ -9,8 +9,8 @@ This repository showcases my data analytics journey through projects in **Excel,
 Projects showcasing my ability to clean, analyze, visualize, and interpret data to provide actionable business insights.
 Each project includes datasets, analysis, and visualizations with business insights.
 
-
 Projects could include EDA-covid19, sales-data-analysis, customer-segmentation
+
 ---
 
 ## 🔹 Projects
