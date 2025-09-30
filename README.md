@@ -59,7 +59,7 @@ Each project includes datasets, analysis, and visualizations with business insig
 ---
 
 ## 📌 Connect With Me
-- LinkedIn: [Your LinkedIn URL](https://linkedin.com/in/tapashsutradhar)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/tapashsutradhar)
 - Tableau Public: [Tableau Profile](https://public.tableau.com/profile/tapashsutradhar)
 - [Portfolio](https://tapashsutradhar.github.io/portfolio/)
 <!--
